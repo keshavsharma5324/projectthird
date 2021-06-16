@@ -1,0 +1,40 @@
+{
+  "project_info": {
+    "project_number": "261049274123",
+    "firebase_url": "https://dbmatrimony-a6b91-default-rtdb.firebaseio.com",
+    "project_id": "dbmatrimony-a6b91",
+    "storage_bucket": "dbmatrimony-a6b91.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:261049274123:android:22b66ccfb7665490625c0e",
+        "android_client_info": {
+          "package_name": "com.example.dbtest"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "261049274123-u1aqj17mbb5m2i3j6itlp60udogi1tku.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyBgHeHqr5gZM7QTPI_0y5BFl0T8b9tG8PQ"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "261049274123-u1aqj17mbb5m2i3j6itlp60udogi1tku.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
